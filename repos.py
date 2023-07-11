@@ -1,15 +1,15 @@
 repos = {
-    "Statistics": [
+    "🎲 Statistics": [
         "rvtools",
         "metalogistic",
         "value-of-information",
         "make-distribution",
         "bayes-continuous",
     ],
-    "Utilities": {
-        "MacOS": ["karasonnet", "updates.sh", ],
-        "Python": ["nonstd", "cookiecutter-pypackage"],
-        "Docker": ["docker-images"],
+    "🛠️ Utilities": {
+        "🍎 MacOS": ["karasonnet", "updates.sh", ],
+        "🐍 Python": ["nonstd", "cookiecutter-pypackage"],
+        "🐳 Docker": ["docker-images"],
     },
     "Other": [
         "intentions-page",

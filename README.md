@@ -1,7 +1,7 @@
 I'm a freelance software engineer based in London. For information about hiring me, please see [my website](https://tadamcz.com/hire-me/).
 
 Check out some of my projects below:
-<h2>Statistics</h2>
+<h2>🎲 Statistics</h2>
 <div style="border: 1px solid #e1e4e8; padding: 16px; margin: 16px 0;">
 <table style="width: 100%;">
 <tr>
@@ -106,7 +106,7 @@ Updated 507 days ago
 </tr>
 </table>
 </div>
-<h2>Utilities</h2><h3>MacOS</h3>
+<h2>🛠️ Utilities</h2><h3>🍎 MacOS</h3>
 <div style="border: 1px solid #e1e4e8; padding: 16px; margin: 16px 0;">
 <table style="width: 100%;">
 <tr>
@@ -148,7 +148,7 @@ Updated 252 days ago
 </tr>
 </table>
 </div>
-<h3>Python</h3>
+<h3>🐍 Python</h3>
 <div style="border: 1px solid #e1e4e8; padding: 16px; margin: 16px 0;">
 <table style="width: 100%;">
 <tr>
@@ -190,7 +190,7 @@ Updated 122 days ago
 </tr>
 </table>
 </div>
-<h3>Docker</h3>
+<h3>🐳 Docker</h3>
 <div style="border: 1px solid #e1e4e8; padding: 16px; margin: 16px 0;">
 <table style="width: 100%;">
 <tr>
@@ -248,7 +248,7 @@ Updated 625 days ago
 <img src="img/ruby.png" alt="" width="12" height="12">
 Ruby &nbsp;&nbsp;
 <img src="img/star.png" alt="" width="16" height="16"> 2 &nbsp;&nbsp;
-Updated 237 days ago
+Updated 238 days ago
 </td>
 </tr>
 </table>
