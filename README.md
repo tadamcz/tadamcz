@@ -38,7 +38,49 @@ Updated 6 days ago
 <img src="img/python.png" alt="" width="12" height="12">
 Python &nbsp;&nbsp;
 <img src="img/star.png" alt="" width="16" height="16"> 10 &nbsp;&nbsp;
-Updated 11 days ago
+Updated 12 days ago
+</td>
+</tr>
+</table>
+</div>
+
+<div style="border: 1px solid #e1e4e8; padding: 16px; margin: 16px 0;">
+<table style="width: 100%;">
+<tr>
+<td>
+<strong>
+<a href='https://github.com/tadamcz/copula-wrapper'>copula-wrapper</a>
+</strong>
+<p style="margin: 0; font-size: 14px;">Specify a joint probability distribution from arbitrary marginal distributions and pairwise rank correlations. Wrapper around statsmodels.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;">
+<img src="img/python.png" alt="" width="12" height="12">
+Python &nbsp;&nbsp;
+<img src="img/star.png" alt="" width="16" height="16"> 3 &nbsp;&nbsp;
+Updated 13 days ago
+</td>
+</tr>
+</table>
+</div>
+
+<div style="border: 1px solid #e1e4e8; padding: 16px; margin: 16px 0;">
+<table style="width: 100%;">
+<tr>
+<td>
+<strong>
+<a href='https://github.com/tadamcz/betapert'>betapert</a>
+</strong>
+<p style="margin: 0; font-size: 14px;">The PERT probability distribution is defined by the minimum, most likely, and maximum values that a variable can take.  It is commonly used to elicit subjective beliefs.  PERT is an alternative to the triangular distribution, but has a smoother shape. </p>
+</td>
+</tr>
+<tr>
+<td style="text-align: right;">
+<img src="img/python.png" alt="" width="12" height="12">
+Python &nbsp;&nbsp;
+<img src="img/star.png" alt="" width="16" height="16"> 0 &nbsp;&nbsp;
+Updated 16 days ago
 </td>
 </tr>
 </table>
@@ -93,7 +135,7 @@ Updated 15 days ago
 <strong>
 <a href='https://github.com/tadamcz/bayes-continuous'>bayes-continuous</a>
 </strong>
-<p style="margin: 0; font-size: 14px;">Do a Bayesian update with continuously distributed prior and likelihood.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p style="margin: 0; font-size: 14px;">Do a Bayesian update by integration, for continuously distributed prior and likelihood.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -101,7 +143,7 @@ Updated 15 days ago
 <img src="img/python.png" alt="" width="12" height="12">
 Python &nbsp;&nbsp;
 <img src="img/star.png" alt="" width="16" height="16"> 3 &nbsp;&nbsp;
-Updated 507 days ago
+Updated 0 days ago
 </td>
 </tr>
 </table>

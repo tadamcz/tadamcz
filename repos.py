@@ -2,6 +2,8 @@ repos = {
     "🎲 Statistics": [
         "rvtools",
         "metalogistic",
+        "copula-wrapper",
+        "betapert",
         "value-of-information",
         "make-distribution",
         "bayes-continuous",
