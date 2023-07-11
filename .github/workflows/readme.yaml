@@ -1,0 +1,49 @@
+name: Generate README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *" # Every day at midnight
+
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - uses: fregante/setup-git-user@v1
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.11.4
+
+    - name: Install Poetry
+      run: curl -sSL https://install.python-poetry.org | python3 -
+
+    - name: Install project dependencies
+      run: poetry export --without-hashes | pip install -r /dev/stdin
+
+    - name: Run get_api_data.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: python get_api_data.py
+
+    - name: Run make_img.py
+      run: python make_img.py
+
+    - name: Run make_md.py
+      run: python make_md.py
+
+    - name: Commit changes
+      run: |
+        git add README.md img
+        git commit -m "Generate README"
+        git push

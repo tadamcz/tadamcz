@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "github-profile-readme"
+version = "0.1.0"
+description = ""
+authors = ["tadamcz <tadamczewskipublic@gmail.com>"]
+readme = "README.md"
+packages = [{include = "github_profile_readme"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+PyGithub ="*"
+pyyaml = "^6.0"
+pillow = "^10.0.0"
+cairosvg = "^2.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
