@@ -393,4 +393,4 @@ Updated 7 months ago
 </tr>
 </table>
 </div>
-<hr>This file was generated on 2023-07-14 using data from the GitHub API.
+<hr><p>This file was generated on 2023-07-14 using data from the GitHub API.</p>
