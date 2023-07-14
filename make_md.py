@@ -1,6 +1,8 @@
 import datetime
 import json
 
+import humanize
+
 from repos import repos
 
 # Define a default color for languages not present in the colors data
@@ -24,6 +26,10 @@ def generate_repo_html(repo_data):
         homepage_name = homepage.replace("https://", "").replace("http://", "").rstrip("/")
     else:
         homepage_name = ""
+
+    # Calculate the humanized updated_at value
+    updated_at = datetime.datetime.now() - datetime.timedelta(days=repo_data['updated_at'])
+    updated_at_humanized = humanize.naturaltime(updated_at)
 
     # Generate the HTML
     html = f"""
@@ -50,7 +56,7 @@ def generate_repo_html(repo_data):
                             <img src="img/star.png" alt="" width="16" height="16">
                         </a>
                         {repo_data['stars']} &nbsp;&nbsp;
-                        Updated {repo_data['updated_at']} days ago
+                        Updated {updated_at_humanized}
                     </td>
                 </tr>
             </table>

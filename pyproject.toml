@@ -12,6 +12,7 @@ PyGithub ="*"
 pyyaml = "^6.0"
 pillow = "^10.0.0"
 cairosvg = "^2.7.0"
+humanize = "^4.7.0"
 
 
 [build-system]

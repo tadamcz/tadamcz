@@ -305,6 +305,20 @@ wrapt = ">=1.10,<2"
 dev = ["PyTest", "PyTest-Cov", "bump2version (<1)", "sphinx (<2)", "tox"]
 
 [[package]]
+name = "humanize"
+version = "4.7.0"
+description = "Python humanize utilities"
+optional = false
+python-versions = ">=3.8"
+files = [
+    {file = "humanize-4.7.0-py3-none-any.whl", hash = "sha256:df7c429c2d27372b249d3f26eb53b07b166b661326e0325793e0a988082e3889"},
+    {file = "humanize-4.7.0.tar.gz", hash = "sha256:7ca0e43e870981fa684acb5b062deb307218193bca1a01f2b2676479df849b3a"},
+]
+
+[package.extras]
+tests = ["freezegun", "pytest", "pytest-cov"]
+
+[[package]]
 name = "idna"
 version = "3.4"
 description = "Internationalized Domain Names in Applications (IDNA)"
@@ -659,4 +673,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.9"
-content-hash = "20e775e2c6db5d03db1caddb94db735f07dce5c5938c5bff22814991b0f9f67b"
+content-hash = "c5b37efb5389309e35de2fa2a8313b1518098fa707c1f19e7457209014f596e0"
