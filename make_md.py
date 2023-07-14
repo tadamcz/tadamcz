@@ -8,6 +8,7 @@ default_color = "#586069"  # GitHub's default text color
 
 
 # Helper function to generate HTML for a single repo
+# Helper function to generate HTML for a single repo
 def generate_repo_html(repo_data):
     # Map the language to the relative URL of a PNG image.
     language_image_url = f'img/{repo_data["language"].lower().replace(" ", "_")}.png'
@@ -16,6 +17,14 @@ def generate_repo_html(repo_data):
     # We have very limited formatting options supported on GitHub.com
     length = len(repo_data['description'])
     repo_data['description'] = repo_data['description'] + "&nbsp; " * (200 - length)
+
+    # Homepage
+    homepage = repo_data['homepage']
+    if homepage:
+        # Remove the scheme, protocol and trailing slash
+        homepage_name = homepage.replace("https://", "").replace("http://", "").rstrip("/")
+    else:
+        homepage_name = ""
 
     # Generate the HTML
     html = f"""
@@ -26,6 +35,9 @@ def generate_repo_html(repo_data):
                         <strong>
                             <a href='{repo_data["url"]}'>{repo_data['name']}</a>
                         </strong>
+                        <span style="float: right;">
+                            <a href='{repo_data.get("homepage", "")}' style="font-size: 12px;">{homepage_name}</a>
+                        </span>
                         <p style="margin: 0; font-size: 14px;">{repo_data['description']}</p>
                     </td>
                 </tr>

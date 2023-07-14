@@ -21,6 +21,7 @@ def get_repo_info(username, repo_name):
         "stars": repo.stargazers_count,
         "updated_at": (datetime.datetime.now() - repo.updated_at).days,
         "url": repo.html_url,
+        "homepage": repo.homepage,
     }
     return data
 
