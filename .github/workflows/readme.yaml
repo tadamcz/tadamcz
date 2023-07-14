@@ -45,5 +45,5 @@ jobs:
     - name: Commit changes
       run: |
         git add README.md img
-        git commit -m "Generate README"
+        git diff-index --quiet HEAD || git commit -m "Generate README"
         git push
