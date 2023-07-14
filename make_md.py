@@ -8,7 +8,6 @@ default_color = "#586069"  # GitHub's default text color
 
 
 # Helper function to generate HTML for a single repo
-# Helper function to generate HTML for a single repo
 def generate_repo_html(repo_data):
     # Map the language to the relative URL of a PNG image.
     language_image_url = f'img/{repo_data["language"].lower().replace(" ", "_")}.png'
@@ -43,9 +42,14 @@ def generate_repo_html(repo_data):
                 </tr>
                 <tr>
                     <td style="text-align: right;">
-                        <img src="{language_image_url}" alt="" width="12" height="12">
+                        <a href='{repo_data["url"]}'>
+                            <img src="{language_image_url}" alt="" width="12" height="12">
+                        </a>
                         {repo_data['language']} &nbsp;&nbsp;
-                        <img src="img/star.png" alt="" width="16" height="16"> {repo_data['stars']} &nbsp;&nbsp;
+                        <a href='{repo_data["url"]}/stargazers'>
+                            <img src="img/star.png" alt="" width="16" height="16">
+                        </a>
+                        {repo_data['stars']} &nbsp;&nbsp;
                         Updated {repo_data['updated_at']} days ago
                     </td>
                 </tr>
