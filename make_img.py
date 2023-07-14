@@ -31,7 +31,7 @@ def generate_dot(color, file_name, size=32):
     img = Image.new('RGB', (size, size), color=color)
     mask = Image.new('L', (size, size), 0)
     draw = ImageDraw.Draw(mask)
-    draw.ellipse((0, 0, size, size), fill=255)
+    draw.ellipse((0, 0, size-1, size-1), fill=255)
     img.putalpha(mask)
     os.makedirs('img', exist_ok=True)
     img.save(f"img/{file_name}")
