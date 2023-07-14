@@ -9,6 +9,7 @@ Check out some of my projects below:
 <strong>
 <a href='https://github.com/tadamcz/rvtools'>rvtools</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href='http://tadamcz.com/rvtools/'>tadamcz.com/rvtools</a>
 </span>
@@ -38,6 +39,7 @@ Updated 2 days ago
 <strong>
 <a href='https://github.com/tadamcz/metalogistic'>metalogistic</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href=''></a>
 </span>
@@ -67,6 +69,7 @@ Updated 14 days ago
 <strong>
 <a href='https://github.com/tadamcz/copula-wrapper'>copula-wrapper</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href=''></a>
 </span>
@@ -96,6 +99,7 @@ Updated 15 days ago
 <strong>
 <a href='https://github.com/tadamcz/betapert'>betapert</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href=''></a>
 </span>
@@ -125,6 +129,7 @@ Updated 18 days ago
 <strong>
 <a href='https://github.com/tadamcz/value-of-information'>value-of-information</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href='https://valueofinfo.com/'>valueofinfo.com</a>
 </span>
@@ -154,6 +159,7 @@ Updated 18 days ago
 <strong>
 <a href='https://github.com/tadamcz/make-distribution'>make-distribution</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href='http://makedistribution.com'>makedistribution.com</a>
 </span>
@@ -183,6 +189,7 @@ Updated 18 days ago
 <strong>
 <a href='https://github.com/tadamcz/bayes-continuous'>bayes-continuous</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href='https://bayesupdate.com/'>bayesupdate.com</a>
 </span>
@@ -212,6 +219,7 @@ Updated 2 days ago
 <strong>
 <a href='https://github.com/tadamcz/karasonnet'>karasonnet</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href=''></a>
 </span>
@@ -241,6 +249,7 @@ Updated 2 months ago
 <strong>
 <a href='https://github.com/tadamcz/updates.sh'>updates.sh</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href=''></a>
 </span>
@@ -270,6 +279,7 @@ Updated 2 days ago
 <strong>
 <a href='https://github.com/tadamcz/nonstd'>nonstd</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href=''></a>
 </span>
@@ -299,6 +309,7 @@ Updated 9 months ago
 <strong>
 <a href='https://github.com/tadamcz/cookiecutter-pypackage'>cookiecutter-pypackage</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href=''></a>
 </span>
@@ -328,6 +339,7 @@ Updated 4 months ago
 <strong>
 <a href='https://github.com/tadamcz/docker-images'>docker-images</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href=''></a>
 </span>
@@ -357,6 +369,7 @@ Updated 2 days ago
 <strong>
 <a href='https://github.com/tadamcz/intentions-page'>intentions-page</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href='https://intentions.page'>intentions.page</a>
 </span>
@@ -386,6 +399,7 @@ Updated 1 year, 8 months ago
 <strong>
 <a href='https://github.com/tadamcz/jekyll-markdown-responsive-image'>jekyll-markdown-responsive-image</a>
 </strong>
+&nbsp;&nbsp;
 <span>
 <a href=''></a>
 </span>
