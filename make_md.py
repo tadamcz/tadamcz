@@ -100,7 +100,7 @@ if __name__ == "__main__":
     for category_name, category in repos.items():
         md += generate_category_html(category_name, category)
 
-    md += f"<hr><p>This file was auto-generated on {datetime.date.today()} using data from the GitHub API.</p>"
+    md += f"<hr>This file was generated on {datetime.date.today()} using data from the GitHub API."
 
     # Write the HTML to a file
     with open('README.md', 'w') as f:
