@@ -40,14 +40,14 @@ def generate_repo_html(repo_data):
                         <strong>
                             <a href='{repo_data["url"]}'>{repo_data['name']}</a>
                         </strong>
-                        <span style="float: right;">
+                        <span>
                             <a href='{repo_data.get("homepage", "")}' style="font-size: 12px;">{homepage_name}</a>
                         </span>
                         <p style="margin: 0; font-size: 14px;">{repo_data['description']}</p>
                     </td>
                 </tr>
                 <tr>
-                    <td style="text-align: right;">
+                    <td>
                         <a href='{repo_data["url"]}'>
                             <img src="{language_image_url}" alt="" width="12" height="12">
                         </a>
