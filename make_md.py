@@ -49,9 +49,7 @@ def generate_repo_html(repo_data):
                 </tr>
                 <tr>
                     <td>
-                        <a href='{repo_data["url"]}'>
-                            <img src="{language_image_url}" alt="" width="12" height="12">
-                        </a>
+                        <img src="{language_image_url}" alt="" width="12" height="12">
                         {repo_data['language']} &nbsp;&nbsp;
                         <a href='{repo_data["url"]}/stargazers'>
                             <img src="img/star.png" alt="" width="16" height="16">

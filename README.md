@@ -18,9 +18,7 @@ Check out some of my projects below:
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/rvtools'>
 <img src="img/python.png" alt="" width="12" height="12">
-</a>
 Python &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/rvtools/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -48,9 +46,7 @@ Updated 2 days ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/metalogistic'>
 <img src="img/python.png" alt="" width="12" height="12">
-</a>
 Python &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/metalogistic/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -78,9 +74,7 @@ Updated 14 days ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/copula-wrapper'>
 <img src="img/python.png" alt="" width="12" height="12">
-</a>
 Python &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/copula-wrapper/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -108,9 +102,7 @@ Updated 15 days ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/betapert'>
 <img src="img/python.png" alt="" width="12" height="12">
-</a>
 Python &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/betapert/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -138,9 +130,7 @@ Updated 18 days ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/value-of-information'>
 <img src="img/python.png" alt="" width="12" height="12">
-</a>
 Python &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/value-of-information/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -168,9 +158,7 @@ Updated 18 days ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/make-distribution'>
 <img src="img/javascript.png" alt="" width="12" height="12">
-</a>
 JavaScript &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/make-distribution/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -198,9 +186,7 @@ Updated 18 days ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/bayes-continuous'>
 <img src="img/python.png" alt="" width="12" height="12">
-</a>
 Python &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/bayes-continuous/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -228,9 +214,7 @@ Updated 2 days ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/karasonnet'>
 <img src="img/jsonnet.png" alt="" width="12" height="12">
-</a>
 Jsonnet &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/karasonnet/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -258,9 +242,7 @@ Updated 2 months ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/updates.sh'>
 <img src="img/shell.png" alt="" width="12" height="12">
-</a>
 Shell &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/updates.sh/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -288,9 +270,7 @@ Updated 2 days ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/nonstd'>
 <img src="img/python.png" alt="" width="12" height="12">
-</a>
 Python &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/nonstd/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -318,9 +298,7 @@ Updated 9 months ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/cookiecutter-pypackage'>
 <img src="img/python.png" alt="" width="12" height="12">
-</a>
 Python &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/cookiecutter-pypackage/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -348,9 +326,7 @@ Updated 4 months ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/docker-images'>
 <img src="img/dockerfile.png" alt="" width="12" height="12">
-</a>
 Dockerfile &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/docker-images/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -378,9 +354,7 @@ Updated 2 days ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/intentions-page'>
 <img src="img/python.png" alt="" width="12" height="12">
-</a>
 Python &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/intentions-page/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
@@ -408,9 +382,7 @@ Updated 1 year, 8 months ago
 </tr>
 <tr>
 <td>
-<a href='https://github.com/tadamcz/jekyll-markdown-responsive-image'>
 <img src="img/ruby.png" alt="" width="12" height="12">
-</a>
 Ruby &nbsp;&nbsp;
 <a href='https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers'>
 <img src="img/star.png" alt="" width="16" height="16">
