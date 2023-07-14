@@ -41,7 +41,7 @@ def generate_repo_html(repo_data):
                             <a href='{repo_data["url"]}'>{repo_data['name']}</a>
                         </strong>
                         <span>
-                            <a href='{repo_data.get("homepage", "")}' style="font-size: 12px;">{homepage_name}</a>
+                            <a href='{repo_data.get("homepage", "")}'>{homepage_name}</a>
                         </span>
                         <p style="margin: 0; font-size: 14px;">{repo_data['description']}</p>
                     </td>
