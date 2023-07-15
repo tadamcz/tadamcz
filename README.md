@@ -33,7 +33,15 @@ Check out some of my projects below:
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/betapert>betapert</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>The PERT probability distribution is defined by the minimum, most likely, and maximum values that a variable can take. It is commonly used to elicit subjective beliefs. PERT is an alternative to the triangular distribution, but has a smoother shape. </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/betapert/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
 
-<h2>🛠️ Utilities</h2><h3>🍎 MacOS</h3>
+<h2>🛠️ Utilities</h2><h3>🐍 Python</h3>
+
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities: data structures, mathematics, logging, code timing...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated today </td> </tr> </table> 
+
+<h3>🐳 Docker</h3>
+
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 4 days ago </td> </tr> </table> 
+
+<h3>🍎 MacOS</h3>
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/karasonnet>karasonnet</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate Karabiner-Elements configuration using Jsonnet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/jsonnet.png alt width=12 height=12> Jsonnet &nbsp;&nbsp; <a href=https://github.com/tadamcz/karasonnet/stargazers> <img src=img/star.png alt width=16 height=16> </a> 2 &nbsp;&nbsp; Updated 2 months ago </td> </tr> </table> 
 
@@ -41,17 +49,9 @@ Check out some of my projects below:
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/updates.sh>updates.sh</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, asdf plugins, Mac App Store apps</p> </td> </tr> <tr> <td> <img src=img/shell.png alt width=12 height=12> Shell &nbsp;&nbsp; <a href=https://github.com/tadamcz/updates.sh/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 3 days ago </td> </tr> </table> 
 
-<h3>🐍 Python</h3>
-
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities: data structures, mathematics, logging, code timing...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 
-
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/cookiecutter-pypackage>cookiecutter-pypackage</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My personal Cookiecutter template for a Python package&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/cookiecutter-pypackage/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 4 months ago </td> </tr> </table> 
-
-<h3>🐳 Docker</h3>
-
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 4 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/macos-time-machine-tools>macos-time-machine-tools</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Scripts for Time Machine: get an email if backups have not recently run, list most recent backups and their size</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/macos-time-machine-tools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 <h2>Other</h2>
 

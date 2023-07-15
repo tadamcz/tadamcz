@@ -14,9 +14,9 @@ repos = {
         },
     ],
     "🛠️ Utilities": {
-        "🍎 MacOS": ["karasonnet", "updates.sh", ],
-        "🐍 Python": ["nonstd", "cookiecutter-pypackage"],
+        "🐍 Python": ["nonstd",],
         "🐳 Docker": ["docker-images"],
+        "🍎 MacOS": ["karasonnet", "updates.sh", "macos-time-machine-tools"],
     },
     "Other": [
         "intentions-page",
