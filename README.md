@@ -7,15 +7,15 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong>esty-go</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/esty>usedagger.io/esty</a> </span> <p>Esty is a Python-like mini-language for probabilistic estimation. Based on Starlark and implemented in Go.&nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/go.png alt width=12 height=12> Go &nbsp;&nbsp; Updated now </td> </tr> </table> 
+<table> <tr> <td> <strong>esty-go</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/esty>usedagger.io/esty</a> </span> <p>Esty is a Python-like mini-language for probabilistic estimation. Based on Starlark and implemented in Go.&nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/go.png alt width=12 height=12> Go &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong>xlmc</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/spreadsheet>usedagger.io/spreadsheet</a> </span> <p>Parse an Excel spreadsheet's calculations as a directed acyclic graph (DAG), and perform Monte Carlo simulations.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; Updated now </td> </tr> </table> 
+<table> <tr> <td> <strong>xlmc</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/spreadsheet>usedagger.io/spreadsheet</a> </span> <p>Parse a spreadsheet's calculations as a directed acyclic graph (DAG), and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/metalogistic>metalogistic</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>A Python package for the metalogistic (or metalog) distribution, a flexible probability distribution that can be used to model data without traditional parameters.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/metalogistic/stargazers> <img src=img/star.png alt width=16 height=16> </a> 10 &nbsp;&nbsp; Updated 15 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/metalogistic>metalogistic</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>The metalogistic (or metalog) distribution is a flexible probability distribution that can be used to model data without traditional parameters.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/metalogistic/stargazers> <img src=img/star.png alt width=16 height=16> </a> 10 &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 
 

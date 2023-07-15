@@ -28,8 +28,11 @@ def generate_repo_html(repo_data):
         homepage_name = ""
 
     # Calculate the humanized updated_at value
-    updated_at = datetime.datetime.now() - datetime.timedelta(days=repo_data['updated_at'])
-    updated_at_humanized = humanize.naturaltime(updated_at)
+    if repo_data['updated_at'] == 0:
+        updated_at_humanized = "today"
+    else:
+        updated_at = datetime.datetime.now() - datetime.timedelta(days=repo_data['updated_at'])
+        updated_at_humanized = humanize.naturaltime(updated_at)
 
     # Generate the HTML
     template = open('repo.html').read()
