@@ -33,7 +33,9 @@ jobs:
 
     - name: Run get_api_data.py
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # We need read access to other private repos
+        # I don't know if there is a way to set the permissions in a GitHub Actions-native way
+        GITHUB_TOKEN: ${{ secrets.GH_PERSONAL_TOKEN }}
       run: python get_api_data.py
 
     - name: Run make_img.py
