@@ -1,8 +1,8 @@
 import datetime
 import json
-
+from htmlmin import minify
 import humanize
-
+from jinja2 import Template
 from repos import repos
 
 # Define a default color for languages not present in the colors data
@@ -32,35 +32,22 @@ def generate_repo_html(repo_data):
     updated_at_humanized = humanize.naturaltime(updated_at)
 
     # Generate the HTML
-    html = f"""
-        <table>
-            <tr>
-                <td>
-                    <strong>
-                        <a href='{repo_data["url"]}'>{repo_data['name']}</a>
-                    </strong>
-                    &nbsp;&nbsp;
-                    <span>
-                        <a href='{repo_data.get("homepage", "")}'>{homepage_name}</a>
-                    </span>
-                    <p>{repo_data['description']}</p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <img src="{language_image_url}" alt="" width="12" height="12">
-                    {repo_data['language']} &nbsp;&nbsp;
-                    <a href='{repo_data["url"]}/stargazers'>
-                        <img src="img/star.png" alt="" width="16" height="16">
-                    </a>
-                    {repo_data['stars']} &nbsp;&nbsp;
-                    Updated {updated_at_humanized}
-                </td>
-            </tr>
-        </table>
-        """
-    # Remove indentation
-    html = "\n".join([line.strip() for line in html.split("\n")])
+    template = open('repo.html').read()
+    template = Template(template)
+    html = template.render(
+        url=repo_data['url'],
+        name=repo_data['name'],
+        language=repo_data['language'],
+        language_image_url=language_image_url,
+        homepage=homepage,
+        description=repo_data['description'],
+        homepage_name=homepage_name,
+        stars=repo_data['stars'],
+        updated_at_humanized=updated_at_humanized,
+        private=repo_data['private'],
+    )
+    html = minify(html)  # Strip whitespace for Markdown compatibility
+    html = "\n\n" + html + "\n\n"  # Separate repos with newlines for readability
     return html
 
 
@@ -80,8 +67,8 @@ def is_repo_list(category):
 def generate_category_html(category_name, category, level=2):
     html = f"<h{level}>{category_name}</h{level}>"
     if is_repo_list(category):
-        for repo_url in category:
-            html += generate_repo_html(data[repo_url])
+        for repo_name in category:
+            html += generate_repo_html(data[repo_name])
     else:
         for subcategory_name, subcategory in category.items():
             html += generate_category_html(subcategory_name, subcategory, level + 1)

@@ -10,10 +10,8 @@ from repos import repos
 g = Github(os.environ['GITHUB_TOKEN'])
 
 
-def get_repo_info(username, repo_name):
-    repo = g.get_user(username).get_repo(repo_name)
-    if repo.private:
-        raise ValueError(f"Repo {repo_name} is private")
+def get_repo_info(full_repo_name):
+    repo = g.get_repo(full_repo_name)  # Fully qualified name, e.g. "tom/myrepo"
     data = {
         "name": repo.name,
         "description": repo.description,
@@ -22,6 +20,8 @@ def get_repo_info(username, repo_name):
         "updated_at": (datetime.datetime.now() - repo.updated_at).days,
         "url": repo.html_url,
         "homepage": repo.homepage,
+        "private": repo.private,
+        "owner": repo.owner.login,
     }
     return data
 
@@ -31,8 +31,14 @@ def save_to_json(repos_nested):
 
     def save_category(category):
         if isinstance(category, list):
-            for repo_name in category:
-                data[repo_name] = get_repo_info("tadamcz", repo_name)
+            for repo_name_in in category:
+                if "/" in repo_name_in:
+                    # Fully qualified name, e.g. "tom/myrepo"
+                    info = get_repo_info(repo_name_in)
+                else:
+                    # Assume "tadamcz" as the owner
+                    info = get_repo_info(f"tadamcz/{repo_name_in}")
+                data[repo_name_in] = info
         else:
             for subcategory in category.values():
                 save_category(subcategory)

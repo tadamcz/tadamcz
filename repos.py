@@ -1,6 +1,8 @@
 repos = {
     "🎲 Statistics": [
         "rvtools",
+        "usedagger/esty-go",
+        "usedagger/xlmc",
         "metalogistic",
         "copula-wrapper",
         "betapert",
