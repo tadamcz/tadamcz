@@ -33,33 +33,31 @@ def generate_repo_html(repo_data):
 
     # Generate the HTML
     html = f"""
-        <div style="border: 1px solid #e1e4e8; padding: 16px; margin: 16px 0;">
-            <table style="width: 100%;">
-                <tr>
-                    <td>
-                        <strong>
-                            <a href='{repo_data["url"]}'>{repo_data['name']}</a>
-                        </strong>
-                        &nbsp;&nbsp;
-                        <span>
-                            <a href='{repo_data.get("homepage", "")}'>{homepage_name}</a>
-                        </span>
-                        <p style="margin: 0; font-size: 14px;">{repo_data['description']}</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img src="{language_image_url}" alt="" width="12" height="12">
-                        {repo_data['language']} &nbsp;&nbsp;
-                        <a href='{repo_data["url"]}/stargazers'>
-                            <img src="img/star.png" alt="" width="16" height="16">
-                        </a>
-                        {repo_data['stars']} &nbsp;&nbsp;
-                        Updated {updated_at_humanized}
-                    </td>
-                </tr>
-            </table>
-        </div>
+        <table>
+            <tr>
+                <td>
+                    <strong>
+                        <a href='{repo_data["url"]}'>{repo_data['name']}</a>
+                    </strong>
+                    &nbsp;&nbsp;
+                    <span>
+                        <a href='{repo_data.get("homepage", "")}'>{homepage_name}</a>
+                    </span>
+                    <p style="margin: 0; font-size: 14px;">{repo_data['description']}</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <img src="{language_image_url}" alt="" width="12" height="12">
+                    {repo_data['language']} &nbsp;&nbsp;
+                    <a href='{repo_data["url"]}/stargazers'>
+                        <img src="img/star.png" alt="" width="16" height="16">
+                    </a>
+                    {repo_data['stars']} &nbsp;&nbsp;
+                    Updated {updated_at_humanized}
+                </td>
+            </tr>
+        </table>
         """
     # Remove indentation
     html = "\n".join([line.strip() for line in html.split("\n")])
