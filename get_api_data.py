@@ -29,25 +29,27 @@ def get_repo_info(full_repo_name):
 def save_to_json(repos_nested):
     data = {}
 
-    def save_category(category):
-        if isinstance(category, list):
-            for repo_name_in in category:
-                if "/" in repo_name_in:
-                    # Fully qualified name, e.g. "tom/myrepo"
-                    info = get_repo_info(repo_name_in)
-                else:
-                    # Assume "tadamcz" as the owner
-                    info = get_repo_info(f"tadamcz/{repo_name_in}")
-                data[repo_name_in] = info
-        else:
-            for subcategory in category.values():
-                save_category(subcategory)
+    def save(obj):
+        if isinstance(obj, str):  # Base case
+            if "/" in obj:
+                # Fully qualified name, e.g. "tom/myrepo"
+                info = get_repo_info(obj)
+            else:
+                # Assume "tadamcz" as the owner
+                info = get_repo_info(f"tadamcz/{obj}")
+            data[obj] = info
+        if isinstance(obj, list):
+            for repo_name in obj:
+                save(repo_name)
+        elif isinstance(obj, dict):
+            for category_name, category_items in obj.items():
+                save(category_items)
 
-    for category in repos_nested.values():
-        save_category(category)
+    save(repos_nested)
 
     with open('data.json', 'w') as outfile:
         json.dump(data, outfile)
+
 
 if __name__ == "__main__":
     save_to_json(repos)

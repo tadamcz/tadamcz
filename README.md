@@ -3,15 +3,23 @@ I'm a freelance software engineer based in London. For information about hiring 
 Check out some of my projects below:
 <h2>🎲 Statistics</h2>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/rvtools>rvtools</a></strong> &nbsp;&nbsp; <span> <a href=http://tadamcz.com/rvtools/ >tadamcz.com/rvtools</a> </span> <p>My best tools for conveniently working with SciPy probability distributions&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/rvtools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 3 &nbsp;&nbsp; Updated 3 days ago </td> </tr> </table> 
-
-
-
 <table> <tr> <td> <strong>esty-go</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/esty>usedagger.io/esty</a> </span> <p>Esty is a Python-like mini-language for probabilistic estimation. Based on Starlark and implemented in Go.&nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/go.png alt width=12 height=12> Go &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 
 
 <table> <tr> <td> <strong>xlmc</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/spreadsheet>usedagger.io/spreadsheet</a> </span> <p>Parse a spreadsheet's calculations as a directed acyclic graph (DAG), and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; Updated today </td> </tr> </table> 
+
+
+
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/value-of-information>value-of-information</a></strong> &nbsp;&nbsp; <span> <a href=https://valueofinfo.com/ >valueofinfo.com</a> </span> <p>Estimate the value of information (VOI) of receiving a signal in a simplified model.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/value-of-information/stargazers> <img src=img/star.png alt width=16 height=16> </a> 1 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
+
+
+
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/make-distribution>make-distribution</a></strong> &nbsp;&nbsp; <span> <a href=http://makedistribution.com>makedistribution.com</a> </span> <p>Create probability distributions from percentiles (points on a CDF).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/javascript.png alt width=12 height=12> JavaScript &nbsp;&nbsp; <a href=https://github.com/tadamcz/make-distribution/stargazers> <img src=img/star.png alt width=16 height=16> </a> 7 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
+
+<h3>SciPy probability distributions</h3>
+
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/rvtools>rvtools</a></strong> &nbsp;&nbsp; <span> <a href=http://tadamcz.com/rvtools/ >tadamcz.com/rvtools</a> </span> <p>My best tools for conveniently working with SciPy probability distributions&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/rvtools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 3 &nbsp;&nbsp; Updated 3 days ago </td> </tr> </table> 
 
 
 
@@ -25,18 +33,6 @@ Check out some of my projects below:
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/betapert>betapert</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>The PERT probability distribution is defined by the minimum, most likely, and maximum values that a variable can take. It is commonly used to elicit subjective beliefs. PERT is an alternative to the triangular distribution, but has a smoother shape. </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/betapert/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
 
-
-
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/value-of-information>value-of-information</a></strong> &nbsp;&nbsp; <span> <a href=https://valueofinfo.com/ >valueofinfo.com</a> </span> <p>Estimate the value of information (VOI) of receiving a signal in a simplified model.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/value-of-information/stargazers> <img src=img/star.png alt width=16 height=16> </a> 1 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
-
-
-
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/make-distribution>make-distribution</a></strong> &nbsp;&nbsp; <span> <a href=http://makedistribution.com>makedistribution.com</a> </span> <p>Create probability distributions from percentiles (points on a CDF).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/javascript.png alt width=12 height=12> JavaScript &nbsp;&nbsp; <a href=https://github.com/tadamcz/make-distribution/stargazers> <img src=img/star.png alt width=16 height=16> </a> 7 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
-
-
-
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/bayes-continuous>bayes-continuous</a></strong> &nbsp;&nbsp; <span> <a href=https://bayesupdate.com/ >bayesupdate.com</a> </span> <p>Do a Bayesian update by integration, for continuously distributed prior and likelihood.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/bayes-continuous/stargazers> <img src=img/star.png alt width=16 height=16> </a> 3 &nbsp;&nbsp; Updated 3 days ago </td> </tr> </table> 
-
 <h2>🛠️ Utilities</h2><h3>🍎 MacOS</h3>
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/karasonnet>karasonnet</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate Karabiner-Elements configuration using Jsonnet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/jsonnet.png alt width=12 height=12> Jsonnet &nbsp;&nbsp; <a href=https://github.com/tadamcz/karasonnet/stargazers> <img src=img/star.png alt width=16 height=16> </a> 2 &nbsp;&nbsp; Updated 2 months ago </td> </tr> </table> 
@@ -47,7 +43,7 @@ Check out some of my projects below:
 
 <h3>🐍 Python</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 9 months ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities: data structures, mathematics, logging, code timing...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 
 
@@ -55,7 +51,7 @@ Check out some of my projects below:
 
 <h3>🐳 Docker</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 3 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 4 days ago </td> </tr> </table> 
 
 <h2>Other</h2>
 

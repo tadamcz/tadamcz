@@ -1,14 +1,17 @@
 repos = {
     "🎲 Statistics": [
-        "rvtools",
         "usedagger/esty-go",
         "usedagger/xlmc",
-        "metalogistic",
-        "copula-wrapper",
-        "betapert",
         "value-of-information",
         "make-distribution",
-        "bayes-continuous",
+        {
+            "SciPy probability distributions": [
+                "rvtools",
+                "metalogistic",
+                "copula-wrapper",
+                "betapert",
+            ]
+        },
     ],
     "🛠️ Utilities": {
         "🍎 MacOS": ["karasonnet", "updates.sh", ],

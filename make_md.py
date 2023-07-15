@@ -1,8 +1,10 @@
 import datetime
 import json
-from htmlmin import minify
+
 import humanize
+from htmlmin import minify
 from jinja2 import Template
+
 from repos import repos
 
 # Define a default color for languages not present in the colors data
@@ -54,27 +56,19 @@ def generate_repo_html(repo_data):
     return html
 
 
-# Helper function to check if a category contains repos or subcategories
-def is_repo_list(category):
-    # If the category is a list, it contains repos
-    if isinstance(category, list):
-        return True
-    # If the category is a dict, it contains subcategories
-    elif isinstance(category, dict):
-        return False
-    else:
-        raise TypeError(f"Invalid type for category: {type(category)}")
-
-
 # Helper function to generate HTML for a single category
-def generate_category_html(category_name, category, level=2):
-    html = f"<h{level}>{category_name}</h{level}>"
-    if is_repo_list(category):
-        for repo_name in category:
-            html += generate_repo_html(data[repo_name])
-    else:
-        for subcategory_name, subcategory in category.items():
-            html += generate_category_html(subcategory_name, subcategory, level + 1)
+def generate_category_html(api_data, obj, level=2):
+    html = ""
+    if isinstance(obj, str):  # Base case: name of a repo
+        html += generate_repo_html(api_data[obj])
+    elif isinstance(obj, list):  # List of objects
+        for repo_name in obj:
+            html += generate_category_html(api_data, repo_name, level)
+    elif isinstance(obj, dict):  # Dictionary: key is a category name, value is a list of objects
+        for cat_name, cat_contents in obj.items():
+            category_header = f"<h{level}>{cat_name}</h{level}>"
+            html += category_header
+            html += generate_category_html(api_data, cat_contents, level + 1)
     return html
 
 
@@ -85,8 +79,7 @@ if __name__ == "__main__":
 
     # Generate the full Markdown
     md = open('header.md').read()
-    for category_name, category in repos.items():
-        md += generate_category_html(category_name, category)
+    md += generate_category_html(data, repos)
 
     md += f"<hr><p>This file was generated on {datetime.date.today()} using data from the GitHub API.</p>"
 
