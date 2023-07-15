@@ -1,17 +1,22 @@
 repos = {
     "🎲 Statistics": [
-        "rvtools",
-        "metalogistic",
-        "copula-wrapper",
-        "betapert",
+        "usedagger/esty-go",
+        "usedagger/xlmc",
         "value-of-information",
         "make-distribution",
-        "bayes-continuous",
+        {
+            "SciPy probability distributions": [
+                "rvtools",
+                "metalogistic",
+                "copula-wrapper",
+                "betapert",
+            ]
+        },
     ],
     "🛠️ Utilities": {
-        "🍎 MacOS": ["karasonnet", "updates.sh", ],
-        "🐍 Python": ["nonstd", "cookiecutter-pypackage"],
+        "🐍 Python": ["nonstd",],
         "🐳 Docker": ["docker-images"],
+        "🍎 MacOS": ["karasonnet", "updates.sh", "macos-time-machine-tools"],
     },
     "Other": [
         "intentions-page",

@@ -1,0 +1,32 @@
+<table>
+    <tr>
+        <td>
+            {% if private %}
+            <strong>{{name}}</strong> (private)
+            {% else %}
+            <strong><a href='{{url}}'>{{name}}</a></strong>
+            {% endif %}
+            &nbsp;&nbsp;
+            <span>
+                <a href='{{homepage}}'>{{ homepage_name }}</a>
+            </span>
+            <p>{{ description }}</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="{{ language_image_url }}" alt="" width="12" height="12">
+            {{ language }} &nbsp;&nbsp;
+
+            {% if not private %}
+            <a href='{{ url }}/stargazers'>
+                <img src="img/star.png" alt="" width="16" height="16">
+            </a>
+            {{ stars }} &nbsp;&nbsp;
+            {% endif %}
+            Updated {{ updated_at_humanized }}
+        </td>
+    </tr>
+</table>
+
+

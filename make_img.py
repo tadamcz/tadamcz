@@ -68,6 +68,7 @@ if __name__ == "__main__":
 
     # Collect the unique languages from the repos data
     languages = set(repo_data['language'] for repo_data in data.values())
+    languages.add('Go')
 
     # Generate a PNG file for each unique language
     for language in languages:

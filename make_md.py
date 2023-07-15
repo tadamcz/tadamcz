@@ -2,6 +2,8 @@ import datetime
 import json
 
 import humanize
+from htmlmin import minify
+from jinja2 import Template
 
 from repos import repos
 
@@ -28,65 +30,45 @@ def generate_repo_html(repo_data):
         homepage_name = ""
 
     # Calculate the humanized updated_at value
-    updated_at = datetime.datetime.now() - datetime.timedelta(days=repo_data['updated_at'])
-    updated_at_humanized = humanize.naturaltime(updated_at)
+    if repo_data['updated_at'] == 0:
+        updated_at_humanized = "today"
+    else:
+        updated_at = datetime.datetime.now() - datetime.timedelta(days=repo_data['updated_at'])
+        updated_at_humanized = humanize.naturaltime(updated_at)
 
     # Generate the HTML
-    html = f"""
-        <div style="border: 1px solid #e1e4e8; padding: 16px; margin: 16px 0;">
-            <table style="width: 100%;">
-                <tr>
-                    <td>
-                        <strong>
-                            <a href='{repo_data["url"]}'>{repo_data['name']}</a>
-                        </strong>
-                        &nbsp;&nbsp;
-                        <span>
-                            <a href='{repo_data.get("homepage", "")}'>{homepage_name}</a>
-                        </span>
-                        <p style="margin: 0; font-size: 14px;">{repo_data['description']}</p>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <img src="{language_image_url}" alt="" width="12" height="12">
-                        {repo_data['language']} &nbsp;&nbsp;
-                        <a href='{repo_data["url"]}/stargazers'>
-                            <img src="img/star.png" alt="" width="16" height="16">
-                        </a>
-                        {repo_data['stars']} &nbsp;&nbsp;
-                        Updated {updated_at_humanized}
-                    </td>
-                </tr>
-            </table>
-        </div>
-        """
-    # Remove indentation
-    html = "\n".join([line.strip() for line in html.split("\n")])
+    template = open('repo.html').read()
+    template = Template(template)
+    html = template.render(
+        url=repo_data['url'],
+        name=repo_data['name'],
+        language=repo_data['language'],
+        language_image_url=language_image_url,
+        homepage=homepage,
+        description=repo_data['description'],
+        homepage_name=homepage_name,
+        stars=repo_data['stars'],
+        updated_at_humanized=updated_at_humanized,
+        private=repo_data['private'],
+    )
+    html = minify(html)  # Strip whitespace for Markdown compatibility
+    html = "\n\n" + html + "\n\n"  # Separate repos with newlines for readability
     return html
 
 
-# Helper function to check if a category contains repos or subcategories
-def is_repo_list(category):
-    # If the category is a list, it contains repos
-    if isinstance(category, list):
-        return True
-    # If the category is a dict, it contains subcategories
-    elif isinstance(category, dict):
-        return False
-    else:
-        raise TypeError(f"Invalid type for category: {type(category)}")
-
-
 # Helper function to generate HTML for a single category
-def generate_category_html(category_name, category, level=2):
-    html = f"<h{level}>{category_name}</h{level}>"
-    if is_repo_list(category):
-        for repo_url in category:
-            html += generate_repo_html(data[repo_url])
-    else:
-        for subcategory_name, subcategory in category.items():
-            html += generate_category_html(subcategory_name, subcategory, level + 1)
+def generate_category_html(api_data, obj, level=2):
+    html = ""
+    if isinstance(obj, str):  # Base case: name of a repo
+        html += generate_repo_html(api_data[obj])
+    elif isinstance(obj, list):  # List of objects
+        for repo_name in obj:
+            html += generate_category_html(api_data, repo_name, level)
+    elif isinstance(obj, dict):  # Dictionary: key is a category name, value is a list of objects
+        for cat_name, cat_contents in obj.items():
+            category_header = f"<h{level}>{cat_name}</h{level}>"
+            html += category_header
+            html += generate_category_html(api_data, cat_contents, level + 1)
     return html
 
 
@@ -97,8 +79,7 @@ if __name__ == "__main__":
 
     # Generate the full Markdown
     md = open('header.md').read()
-    for category_name, category in repos.items():
-        md += generate_category_html(category_name, category)
+    md += generate_category_html(data, repos)
 
     md += f"<hr><p>This file was generated on {datetime.date.today()} using data from the GitHub API.</p>"
 

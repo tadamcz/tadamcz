@@ -10,10 +10,8 @@ from repos import repos
 g = Github(os.environ['GITHUB_TOKEN'])
 
 
-def get_repo_info(username, repo_name):
-    repo = g.get_user(username).get_repo(repo_name)
-    if repo.private:
-        raise ValueError(f"Repo {repo_name} is private")
+def get_repo_info(full_repo_name):
+    repo = g.get_repo(full_repo_name)  # Fully qualified name, e.g. "tom/myrepo"
     data = {
         "name": repo.name,
         "description": repo.description,
@@ -22,6 +20,8 @@ def get_repo_info(username, repo_name):
         "updated_at": (datetime.datetime.now() - repo.updated_at).days,
         "url": repo.html_url,
         "homepage": repo.homepage,
+        "private": repo.private,
+        "owner": repo.owner.login,
     }
     return data
 
@@ -29,19 +29,27 @@ def get_repo_info(username, repo_name):
 def save_to_json(repos_nested):
     data = {}
 
-    def save_category(category):
-        if isinstance(category, list):
-            for repo_name in category:
-                data[repo_name] = get_repo_info("tadamcz", repo_name)
-        else:
-            for subcategory in category.values():
-                save_category(subcategory)
+    def save(obj):
+        if isinstance(obj, str):  # Base case
+            if "/" in obj:
+                # Fully qualified name, e.g. "tom/myrepo"
+                info = get_repo_info(obj)
+            else:
+                # Assume "tadamcz" as the owner
+                info = get_repo_info(f"tadamcz/{obj}")
+            data[obj] = info
+        if isinstance(obj, list):
+            for repo_name in obj:
+                save(repo_name)
+        elif isinstance(obj, dict):
+            for category_name, category_items in obj.items():
+                save(category_items)
 
-    for category in repos_nested.values():
-        save_category(category)
+    save(repos_nested)
 
     with open('data.json', 'w') as outfile:
         json.dump(data, outfile)
+
 
 if __name__ == "__main__":
     save_to_json(repos)
