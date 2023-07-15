@@ -19,6 +19,7 @@ repos = {
         "🍎 MacOS": ["karasonnet", "updates.sh", "macos-time-machine-tools"],
     },
     "Other": [
+        "ai-timelines-priors",
         "intentions-page",
         "jekyll-markdown-responsive-image",
     ]
