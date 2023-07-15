@@ -17,7 +17,7 @@ def generate_repo_html(repo_data):
     # Pad the description with spaces. This makes boxes have the same width.
     # We have very limited formatting options supported on GitHub.com
     length = len(repo_data['description'])
-    repo_data['description'] = repo_data['description'] + "&nbsp; " * (200 - length)
+    repo_data['description'] = repo_data['description'] + "&nbsp; " * (110 - length)
 
     # Homepage
     homepage = repo_data['homepage']
