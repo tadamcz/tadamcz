@@ -55,6 +55,10 @@ Check out some of my projects below:
 
 <h2>Other</h2>
 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/ai-timelines-priors>ai-timelines-priors</a></strong> &nbsp;&nbsp; <span> <a href=https://aipriors.com/ >aipriors.com</a> </span> <p>The models used in the Open Philanthropy report "Semi-informative priors over AI timelines", and a companion web interface.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/ai-timelines-priors/stargazers> <img src=img/star.png alt width=16 height=16> </a> 4 &nbsp;&nbsp; Updated 8 months ago </td> </tr> </table> 
+
+
+
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/intentions-page>intentions-page</a></strong> &nbsp;&nbsp; <span> <a href=https://intentions.page>intentions.page</a> </span> <p>An opinionated task list designed to steer you towards intentions that feel alive and relevant, instead of long lists of old tasks.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/intentions-page/stargazers> <img src=img/star.png alt width=16 height=16> </a> 1 &nbsp;&nbsp; Updated 1 year, 8 months ago </td> </tr> </table> 
 
 
