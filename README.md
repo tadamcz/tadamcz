@@ -13,7 +13,7 @@ Check out some of my projects below:
 <span>
 <a href='http://tadamcz.com/rvtools/'>tadamcz.com/rvtools</a>
 </span>
-<p style="margin: 0; font-size: 14px;">My best tools for conveniently working with SciPy probability distributions&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p>My best tools for conveniently working with SciPy probability distributions&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ Updated 2 days ago
 <span>
 <a href=''></a>
 </span>
-<p style="margin: 0; font-size: 14px;">A Python package for the metalogistic (or metalog) distribution, a flexible probability distribution that can be used to model data without traditional parameters.</p>
+<p>A Python package for the metalogistic (or metalog) distribution, a flexible probability distribution that can be used to model data without traditional parameters.</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ Updated 14 days ago
 <span>
 <a href=''></a>
 </span>
-<p style="margin: 0; font-size: 14px;">Specify a joint probability distribution from arbitrary marginal distributions and pairwise rank correlations. Wrapper around statsmodels.</p>
+<p>Specify a joint probability distribution from arbitrary marginal distributions and pairwise rank correlations. Wrapper around statsmodels.</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ Updated 15 days ago
 <span>
 <a href=''></a>
 </span>
-<p style="margin: 0; font-size: 14px;">The PERT probability distribution is defined by the minimum, most likely, and maximum values that a variable can take.  It is commonly used to elicit subjective beliefs.  PERT is an alternative to the triangular distribution, but has a smoother shape. </p>
+<p>The PERT probability distribution is defined by the minimum, most likely, and maximum values that a variable can take.  It is commonly used to elicit subjective beliefs.  PERT is an alternative to the triangular distribution, but has a smoother shape. </p>
 </td>
 </tr>
 <tr>
@@ -125,7 +125,7 @@ Updated 18 days ago
 <span>
 <a href='https://valueofinfo.com/'>valueofinfo.com</a>
 </span>
-<p style="margin: 0; font-size: 14px;">Estimate the value of information (VOI) of receiving a signal in a simplified model.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p>Estimate the value of information (VOI) of receiving a signal in a simplified model.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ Updated 18 days ago
 <span>
 <a href='http://makedistribution.com'>makedistribution.com</a>
 </span>
-<p style="margin: 0; font-size: 14px;">Create probability distributions from percentiles (points on a CDF).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p>Create probability distributions from percentiles (points on a CDF).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ Updated 18 days ago
 <span>
 <a href='https://bayesupdate.com/'>bayesupdate.com</a>
 </span>
-<p style="margin: 0; font-size: 14px;">Do a Bayesian update by integration, for continuously distributed prior and likelihood.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p>Do a Bayesian update by integration, for continuously distributed prior and likelihood.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ Updated 2 days ago
 <span>
 <a href=''></a>
 </span>
-<p style="margin: 0; font-size: 14px;">Generate Karabiner-Elements configuration using Jsonnet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p>Generate Karabiner-Elements configuration using Jsonnet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -237,7 +237,7 @@ Updated 2 months ago
 <span>
 <a href=''></a>
 </span>
-<p style="margin: 0; font-size: 14px;">MacOS update script: updates Homebrew formulae & casks with parallel downloads, asdf plugins, Mac App Store apps</p>
+<p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, asdf plugins, Mac App Store apps</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +265,7 @@ Updated 2 days ago
 <span>
 <a href=''></a>
 </span>
-<p style="margin: 0; font-size: 14px;">Personal collection of Python utilities.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p>Personal collection of Python utilities.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -293,7 +293,7 @@ Updated 9 months ago
 <span>
 <a href=''></a>
 </span>
-<p style="margin: 0; font-size: 14px;">My personal Cookiecutter template for a Python package&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p>My personal Cookiecutter template for a Python package&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -321,7 +321,7 @@ Updated 4 months ago
 <span>
 <a href=''></a>
 </span>
-<p style="margin: 0; font-size: 14px;">My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
@@ -349,7 +349,7 @@ Updated 2 days ago
 <span>
 <a href='https://intentions.page'>intentions.page</a>
 </span>
-<p style="margin: 0; font-size: 14px;">An opinionated task list designed to steer you towards intentions that feel alive and relevant, instead of long lists of old tasks.</p>
+<p>An opinionated task list designed to steer you towards intentions that feel alive and relevant, instead of long lists of old tasks.</p>
 </td>
 </tr>
 <tr>
@@ -377,7 +377,7 @@ Updated 1 year, 8 months ago
 <span>
 <a href=''></a>
 </span>
-<p style="margin: 0; font-size: 14px;">Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
+<p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p>
 </td>
 </tr>
 <tr>
