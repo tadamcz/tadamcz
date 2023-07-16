@@ -19,7 +19,7 @@ Check out some of my projects below:
 
 <h3>SciPy probability distributions</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/rvtools>rvtools</a></strong> &nbsp;&nbsp; <span> <a href=http://tadamcz.com/rvtools/ >tadamcz.com/rvtools</a> </span> <p>My best tools for conveniently working with SciPy probability distributions&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/rvtools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 3 &nbsp;&nbsp; Updated 3 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/rvtools>rvtools</a></strong> &nbsp;&nbsp; <span> <a href=http://tadamcz.com/rvtools/ >tadamcz.com/rvtools</a> </span> <p>My best tools for conveniently working with SciPy probability distributions&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/rvtools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 3 &nbsp;&nbsp; Updated 4 days ago </td> </tr> </table> 
 
 
 
@@ -27,11 +27,11 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/copula-wrapper>copula-wrapper</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Specify a joint probability distribution from arbitrary marginal distributions and pairwise rank correlations. Wrapper around statsmodels.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/copula-wrapper/stargazers> <img src=img/star.png alt width=16 height=16> </a> 3 &nbsp;&nbsp; Updated 16 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/copula-wrapper>copula-wrapper</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Specify a joint probability distribution from arbitrary marginal distributions and pairwise rank correlations. Wrapper around statsmodels.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/copula-wrapper/stargazers> <img src=img/star.png alt width=16 height=16> </a> 3 &nbsp;&nbsp; Updated 17 days ago </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/betapert>betapert</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>The PERT probability distribution is defined by the minimum, most likely, and maximum values that a variable can take. It is commonly used to elicit subjective beliefs. PERT is an alternative to the triangular distribution, but has a smoother shape. </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/betapert/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/betapert>betapert</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>The PERT probability distribution is defined by the minimum, most likely, and maximum values that a variable can take. It is commonly used to elicit subjective beliefs. PERT is an alternative to the triangular distribution, but has a smoother shape. </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/betapert/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 20 days ago </td> </tr> </table> 
 
 <h2>🛠️ Utilities</h2><h3>🐍 Python</h3>
 
@@ -39,7 +39,7 @@ Check out some of my projects below:
 
 <h3>🐳 Docker</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 3 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 4 days ago </td> </tr> </table> 
 
 <h3>🍎 MacOS</h3>
 
@@ -47,7 +47,7 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/updates.sh>updates.sh</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, asdf plugins, Mac App Store apps&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/shell.png alt width=12 height=12> Shell &nbsp;&nbsp; <a href=https://github.com/tadamcz/updates.sh/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 3 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/updates.sh>updates.sh</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, Mac App Store apps, asdf plugins, Oh My Zsh&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/shell.png alt width=12 height=12> Shell &nbsp;&nbsp; <a href=https://github.com/tadamcz/updates.sh/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 
 
@@ -65,4 +65,4 @@ Check out some of my projects below:
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers> <img src=img/star.png alt width=16 height=16> </a> 2 &nbsp;&nbsp; Updated 7 months ago </td> </tr> </table> 
 
-<hr><p>This file was generated on 2023-07-15 using data from the GitHub API.</p>
+<hr><p>This file was generated on 2023-07-16 using data from the GitHub API.</p>
