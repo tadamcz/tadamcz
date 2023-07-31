@@ -3,11 +3,11 @@ I'm a freelance software engineer based in London. For information about hiring 
 Check out some of my projects below:
 <h2>🎲 Statistics</h2>
 
-<table> <tr> <td> <strong>esty-go</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/esty>usedagger.io/esty</a> </span> <p>Esty is a Python-like mini-language for probabilistic estimation. Based on Starlark and implemented in Go.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/go.png alt width=12 height=12> Go &nbsp;&nbsp; Updated 14 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong>esty-go</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/esty>usedagger.io/esty</a> </span> <p>Esty is a Python-like mini-language for probabilistic estimation. Based on Starlark and implemented in Go.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/go.png alt width=12 height=12> Go &nbsp;&nbsp; Updated 15 days ago </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong>xlmc</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/spreadsheet>usedagger.io/spreadsheet</a> </span> <p>Parse a spreadsheet's calculations as a directed acyclic graph (DAG), and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; Updated 14 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong>xlmc</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.io/spreadsheet>usedagger.io/spreadsheet</a> </span> <p>Parse a spreadsheet's calculations as a directed acyclic graph (DAG), and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; Updated 15 days ago </td> </tr> </table> 
 
 
 
@@ -19,11 +19,11 @@ Check out some of my projects below:
 
 <h3>SciPy probability distributions</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/rvtools>rvtools</a></strong> &nbsp;&nbsp; <span> <a href=http://tadamcz.com/rvtools/ >tadamcz.com/rvtools</a> </span> <p>My best tools for conveniently working with SciPy probability distributions&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/rvtools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 3 &nbsp;&nbsp; Updated 18 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/rvtools>rvtools</a></strong> &nbsp;&nbsp; <span> <a href=http://tadamcz.com/rvtools/ >tadamcz.com/rvtools</a> </span> <p>My best tools for conveniently working with SciPy probability distributions&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/rvtools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 3 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/metalogistic>metalogistic</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>The metalogistic (or metalog) distribution is a flexible probability distribution that can be used to model data without traditional parameters.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/metalogistic/stargazers> <img src=img/star.png alt width=16 height=16> </a> 10 &nbsp;&nbsp; Updated 14 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/metalogistic>metalogistic</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>The metalogistic (or metalog) distribution is a flexible probability distribution that can be used to model data without traditional parameters.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/metalogistic/stargazers> <img src=img/star.png alt width=16 height=16> </a> 10 &nbsp;&nbsp; Updated 15 days ago </td> </tr> </table> 
 
 
 
@@ -35,11 +35,11 @@ Check out some of my projects below:
 
 <h2>🛠️ Utilities</h2><h3>🐍 Python</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities: data structures, mathematics, logging, code timing...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 14 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities: data structures, mathematics, logging, code timing...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 15 days ago </td> </tr> </table> 
 
 <h3>🐳 Docker</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 18 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
 
 <h3>🍎 MacOS</h3>
 
@@ -47,11 +47,11 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/updates.sh>updates.sh</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, Mac App Store apps, asdf plugins, Oh My Zsh&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/shell.png alt width=12 height=12> Shell &nbsp;&nbsp; <a href=https://github.com/tadamcz/updates.sh/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 14 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/updates.sh>updates.sh</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, Mac App Store apps, asdf plugins, Oh My Zsh&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/shell.png alt width=12 height=12> Shell &nbsp;&nbsp; <a href=https://github.com/tadamcz/updates.sh/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 15 days ago </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/macos-time-machine-tools>macos-time-machine-tools</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Scripts for Time Machine: get an email if backups have not recently run, list most recent backups and their size&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/macos-time-machine-tools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 14 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/macos-time-machine-tools>macos-time-machine-tools</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Scripts for Time Machine: get an email if backups have not recently run, list most recent backups and their size&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/macos-time-machine-tools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 15 days ago </td> </tr> </table> 
 
 <h2>Other</h2>
 
@@ -65,4 +65,4 @@ Check out some of my projects below:
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers> <img src=img/star.png alt width=16 height=16> </a> 2 &nbsp;&nbsp; Updated 8 months ago </td> </tr> </table> 
 
-<hr><p>This file was generated on 2023-07-30 using data from the GitHub API.</p>
+<hr><p>This file was generated on 2023-07-31 using data from the GitHub API.</p>
