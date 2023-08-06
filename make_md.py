@@ -29,12 +29,12 @@ def generate_repo_html(repo_data):
     else:
         homepage_name = ""
 
-    # Calculate the humanized updated_at value
-    if repo_data['updated_at'] == 0:
-        updated_at_humanized = "today"
+    # Calculate the humanized pushed_at value
+    if repo_data['pushed_at'] == 0:
+        pushed_at_humanized = "today"
     else:
-        updated_at = datetime.datetime.now() - datetime.timedelta(days=repo_data['updated_at'])
-        updated_at_humanized = humanize.naturaltime(updated_at)
+        pushed_at = datetime.datetime.now() - datetime.timedelta(days=repo_data['pushed_at'])
+        pushed_at_humanized = humanize.naturaltime(pushed_at)
 
     # Generate the HTML
     template = open('repo.html').read()
@@ -48,7 +48,7 @@ def generate_repo_html(repo_data):
         description=repo_data['description'],
         homepage_name=homepage_name,
         stars=repo_data['stars'],
-        updated_at_humanized=updated_at_humanized,
+        pushed_at_humanized=pushed_at_humanized,
         private=repo_data['private'],
     )
     html = minify(html)  # Strip whitespace for Markdown compatibility

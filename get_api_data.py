@@ -17,7 +17,7 @@ def get_repo_info(full_repo_name):
         "description": repo.description,
         "language": repo.language,
         "stars": repo.stargazers_count,
-        "updated_at": (datetime.datetime.now() - repo.updated_at).days,
+        "pushed_at": (datetime.datetime.now() - repo.pushed_at).days,
         "url": repo.html_url,
         "homepage": repo.homepage,
         "private": repo.private,
