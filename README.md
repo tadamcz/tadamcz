@@ -7,7 +7,7 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong>xlmc</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.com/spreadsheet>usedagger.com/spreadsheet</a> </span> <p>Parse a spreadsheet's calculations as a directed acyclic graph (DAG), and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; Updated 3 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong>xlmc</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.com/spreadsheet>usedagger.com/spreadsheet</a> </span> <p>Parse a spreadsheet's calculations as a directed acyclic graph (DAG), and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; Updated 4 days ago </td> </tr> </table> 
 
 
 
@@ -15,7 +15,7 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/make-distribution>make-distribution</a></strong> &nbsp;&nbsp; <span> <a href=http://makedistribution.com>makedistribution.com</a> </span> <p>Create probability distributions from percentiles (points on a CDF).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/javascript.png alt width=12 height=12> JavaScript &nbsp;&nbsp; <a href=https://github.com/tadamcz/make-distribution/stargazers> <img src=img/star.png alt width=16 height=16> </a> 7 &nbsp;&nbsp; Updated 1 year, 3 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/make-distribution>make-distribution</a></strong> &nbsp;&nbsp; <span> <a href=http://makedistribution.com>makedistribution.com</a> </span> <p>Create probability distributions from percentiles (points on a CDF).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/javascript.png alt width=12 height=12> JavaScript &nbsp;&nbsp; <a href=https://github.com/tadamcz/make-distribution/stargazers> <img src=img/star.png alt width=16 height=16> </a> 7 &nbsp;&nbsp; Updated 1 year, 4 days ago </td> </tr> </table> 
 
 <h3>SciPy probability distributions</h3>
 
@@ -63,6 +63,6 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers> <img src=img/star.png alt width=16 height=16> </a> 2 &nbsp;&nbsp; Updated 30 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers> <img src=img/star.png alt width=16 height=16> </a> 2 &nbsp;&nbsp; Updated a month ago </td> </tr> </table> 
 
-<hr><p>This file was generated on 2023-09-03 using data from the GitHub API.</p>
+<hr><p>This file was generated on 2023-09-04 using data from the GitHub API.</p>
