@@ -1,7 +1,7 @@
 repos = {
     "🎲 Statistics": [
         "usedagger/esty-go",
-        "usedagger/xlmc",
+        "carlo",
         "value-of-information",
         "make-distribution",
         {

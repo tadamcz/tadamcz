@@ -7,7 +7,7 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong>xlmc</strong> (private) &nbsp;&nbsp; <span> <a href=https://usedagger.com/spreadsheet>usedagger.com/spreadsheet</a> </span> <p>Parse a spreadsheet's calculations as a directed acyclic graph (DAG), and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; Updated 2 months ago </td> </tr> </table> 
+<table> <tr> <td> <strong>carlo</strong> (private) &nbsp;&nbsp; <span> <a href=https://usecarlo.com/ >usecarlo.com</a> </span> <p>Parse a spreadsheet's calculation graph and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 4 days ago </td> </tr> </table> 
 
 
 
@@ -39,7 +39,7 @@ Check out some of my projects below:
 
 <h3>🐳 Docker</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 4 months ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/docker-images>docker-images</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>My Dockerfiles, plus a script to build images for various platforms and push them to Docker Hub.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/dockerfile.png alt width=12 height=12> Dockerfile &nbsp;&nbsp; <a href=https://github.com/tadamcz/docker-images/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 5 months ago </td> </tr> </table> 
 
 <h3>🍎 MacOS</h3>
 
