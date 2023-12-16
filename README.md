@@ -15,7 +15,7 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/make-distribution>make-distribution</a></strong> &nbsp;&nbsp; <span> <a href=http://makedistribution.com>makedistribution.com</a> </span> <p>Create probability distributions from percentiles (points on a CDF).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/javascript.png alt width=12 height=12> JavaScript &nbsp;&nbsp; <a href=https://github.com/tadamcz/make-distribution/stargazers> <img src=img/star.png alt width=16 height=16> </a> 7 &nbsp;&nbsp; Updated a day ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/make-distribution>make-distribution</a></strong> &nbsp;&nbsp; <span> <a href=http://makedistribution.com>makedistribution.com</a> </span> <p>Create probability distributions from percentiles (points on a CDF).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/javascript.png alt width=12 height=12> JavaScript &nbsp;&nbsp; <a href=https://github.com/tadamcz/make-distribution/stargazers> <img src=img/star.png alt width=16 height=16> </a> 7 &nbsp;&nbsp; Updated 2 days ago </td> </tr> </table> 
 
 <h3>SciPy probability distributions</h3>
 
@@ -23,7 +23,7 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/metalogistic>metalogistic</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>The metalogistic (or metalog) distribution is a flexible probability distribution that can be used to model data without traditional parameters.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/metalogistic/stargazers> <img src=img/star.png alt width=16 height=16> </a> 12 &nbsp;&nbsp; Updated today </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/metalogistic>metalogistic</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>The metalogistic (or metalog) distribution is a flexible probability distribution that can be used to model data without traditional parameters.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/metalogistic/stargazers> <img src=img/star.png alt width=16 height=16> </a> 12 &nbsp;&nbsp; Updated a day ago </td> </tr> </table> 
 
 
 
@@ -47,11 +47,11 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/updates.sh>updates.sh</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, Mac App Store apps, asdf plugins, Oh My Zsh&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/shell.png alt width=12 height=12> Shell &nbsp;&nbsp; <a href=https://github.com/tadamcz/updates.sh/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 4 months ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/updates.sh>updates.sh</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, Mac App Store apps, asdf plugins, Oh My Zsh&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/shell.png alt width=12 height=12> Shell &nbsp;&nbsp; <a href=https://github.com/tadamcz/updates.sh/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 5 months ago </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/macos-time-machine-tools>macos-time-machine-tools</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Scripts for Time Machine: get an email if backups have not recently run, list most recent backups and their size&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/macos-time-machine-tools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 6 months ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/macos-time-machine-tools>macos-time-machine-tools</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Scripts for Time Machine: get an email if backups have not recently run, list most recent backups and their size&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/macos-time-machine-tools/stargazers> <img src=img/star.png alt width=16 height=16> </a> 0 &nbsp;&nbsp; Updated 7 months ago </td> </tr> </table> 
 
 <h2>Other</h2>
 
@@ -59,10 +59,10 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/intentions-page>intentions-page</a></strong> &nbsp;&nbsp; <span> <a href=https://intentions.page>intentions.page</a> </span> <p>An opinionated task list designed to steer you towards intentions that feel alive and relevant, instead of long lists of old tasks.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/intentions-page/stargazers> <img src=img/star.png alt width=16 height=16> </a> 1 &nbsp;&nbsp; Updated a day ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/intentions-page>intentions-page</a></strong> &nbsp;&nbsp; <span> <a href=https://intentions.page>intentions.page</a> </span> <p>An opinionated task list designed to steer you towards intentions that feel alive and relevant, instead of long lists of old tasks.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/intentions-page/stargazers> <img src=img/star.png alt width=16 height=16> </a> 1 &nbsp;&nbsp; Updated 2 days ago </td> </tr> </table> 
 
 
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers> <img src=img/star.png alt width=16 height=16> </a> 2 &nbsp;&nbsp; Updated 4 months ago </td> </tr> </table> 
 
-<hr><p>This file was generated on 2023-12-15 using data from the GitHub API.</p>
+<hr><p>This file was generated on 2023-12-16 using data from the GitHub API.</p>
