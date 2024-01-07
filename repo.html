@@ -19,9 +19,7 @@
             {{ language }} &nbsp;&nbsp;
 
             {% if not private %}
-            <a href='{{ url }}/stargazers'>
-                <img src="img/star.png" alt="" width="16" height="16">
-            </a>
+            <a href='{{ url }}/stargazers'><img src="img/star.png" alt="" width="16" height="16"></a>
             {{ stars }} &nbsp;&nbsp;
             {% endif %}
             Updated {{ pushed_at_humanized }}
