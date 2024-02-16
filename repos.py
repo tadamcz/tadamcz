@@ -6,8 +6,6 @@ repos = {
         "make-distribution",
         {
             "SciPy probability distributions": [
-                "rvtools",
-                "metalogistic",
                 "copula-wrapper",
                 "betapert",
             ]
