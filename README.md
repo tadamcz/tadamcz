@@ -7,15 +7,15 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong>carlo</strong> (private) &nbsp;&nbsp; <span> <a href=https://carlo.app>carlo.app</a> </span> <p>Parse a spreadsheet's computation graph and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 2 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong>carlo</strong> (private) &nbsp;&nbsp; <span> <a href=https://carlo.app>carlo.app</a> </span> <p>Parse a spreadsheet's computation graph and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated today </td> </tr> </table> 
+
+
+
+<table> <tr> <td> <strong>mdist</strong> (private) &nbsp;&nbsp; <span> <a href=https://makedistribution.com/ >makedistribution.com</a> </span> <p>Probability distributions from human judgement. Continuous distributions that are easy to use and can flexibly match your beliefs, unlike traditional ones.</p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/value-of-information>value-of-information</a></strong> &nbsp;&nbsp; <span> <a href=https://valueofinfo.com/ >valueofinfo.com</a> </span> <p>Estimate the value of information (VOI) of receiving a signal in a simplified model.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/value-of-information/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 9 months ago </td> </tr> </table> 
-
-
-
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/make-distribution>make-distribution</a></strong> &nbsp;&nbsp; <span> <a href=http://makedistribution.com>makedistribution.com</a> </span> <p>Create probability distributions from percentiles (points on a CDF).&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/javascript.png alt width=12 height=12> JavaScript &nbsp;&nbsp; <a href=https://github.com/tadamcz/make-distribution/stargazers><img src=img/star.png alt width=16 height=16></a> 7 &nbsp;&nbsp; Updated 4 months ago </td> </tr> </table> 
 
 <h3>SciPy probability distributions</h3>
 
