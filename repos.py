@@ -2,8 +2,8 @@ repos = {
     "🎲 Statistics": [
         "usedagger/esty-go",
         "carlo",
+        "mdist",
         "value-of-information",
-        "make-distribution",
         {
             "SciPy probability distributions": [
                 "copula-wrapper",
