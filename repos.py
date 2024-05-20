@@ -18,6 +18,7 @@ repos = {
     },
     "Other": [
         "ai-timelines-priors",
+        "monadic-predicate",
         "intentions-page",
         "jekyll-markdown-responsive-image",
     ]
