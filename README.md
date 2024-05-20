@@ -51,6 +51,10 @@ Check out some of my projects below:
 
 
 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/monadic-predicate>monadic-predicate</a></strong> &nbsp;&nbsp; <span> <a href=https://monadic-predicate.tadamcz.com>monadic-predicate.tadamcz.com</a> </span> <p>Check whether a formula in monadic predicate logic is a theorem.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/monadic-predicate/stargazers><img src=img/star.png alt width=16 height=16></a> 0 &nbsp;&nbsp; Updated 5 months ago </td> </tr> </table> 
+
+
+
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/intentions-page>intentions-page</a></strong> &nbsp;&nbsp; <span> <a href=https://intentions.page>intentions.page</a> </span> <p>An opinionated task list designed to steer you towards intentions that feel alive and relevant, instead of long lists of old tasks.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/intentions-page/stargazers><img src=img/star.png alt width=16 height=16></a> 1 &nbsp;&nbsp; Updated 5 months ago </td> </tr> </table> 
 
 
