@@ -7,19 +7,19 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong>carlo</strong> (private) &nbsp;&nbsp; <span> <a href=https://carlo.app>carlo.app</a> </span> <p>Parse a spreadsheet's computation graph and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated a day ago </td> </tr> </table> 
+<table> <tr> <td> <strong>carlo</strong> (private) &nbsp;&nbsp; <span> <a href=https://carlo.app>carlo.app</a> </span> <p>Parse a spreadsheet's computation graph and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 2 days ago </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong>mdist</strong> (private) &nbsp;&nbsp; <span> <a href=https://makedistribution.com/ >makedistribution.com</a> </span> <p>Intuitive UI and API to create subjective probability distributions. Offers novel distributions that can that flexibly match your beliefs, unlike traditional ones.</p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 6 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong>mdist</strong> (private) &nbsp;&nbsp; <span> <a href=https://makedistribution.com/ >makedistribution.com</a> </span> <p>Intuitive UI and API to create subjective probability distributions. Offers novel distributions that can that flexibly match your beliefs, unlike traditional ones.</p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 7 days ago </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/value-of-information>value-of-information</a></strong> &nbsp;&nbsp; <span> <a href=https://valueofinfo.com/ >valueofinfo.com</a> </span> <p>Estimate the value of information (VOI) of receiving a signal in a simplified model.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/value-of-information/stargazers><img src=img/star.png alt width=16 height=16></a> 4 &nbsp;&nbsp; Updated 1 year, 5 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/value-of-information>value-of-information</a></strong> &nbsp;&nbsp; <span> <a href=https://valueofinfo.com/ >valueofinfo.com</a> </span> <p>Estimate the value of information (VOI) of receiving a signal in a simplified model.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/value-of-information/stargazers><img src=img/star.png alt width=16 height=16></a> 4 &nbsp;&nbsp; Updated 1 year, 6 days ago </td> </tr> </table> 
 
 <h3>SciPy probability distributions</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/copula-wrapper>copula-wrapper</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Specify a joint probability distribution from arbitrary marginal distributions and pairwise rank correlations. Wrapper around statsmodels.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/copula-wrapper/stargazers><img src=img/star.png alt width=16 height=16></a> 4 &nbsp;&nbsp; Updated 1 year, 21 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/copula-wrapper>copula-wrapper</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Specify a joint probability distribution from arbitrary marginal distributions and pairwise rank correlations. Wrapper around statsmodels.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/copula-wrapper/stargazers><img src=img/star.png alt width=16 height=16></a> 4 &nbsp;&nbsp; Updated 1 year, 22 days ago </td> </tr> </table> 
 
 
 
@@ -27,7 +27,7 @@ Check out some of my projects below:
 
 <h2>🛠️ Utilities</h2><h3>🐍 Python</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities: data structures, mathematics, logging, code timing...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers><img src=img/star.png alt width=16 height=16></a> 0 &nbsp;&nbsp; Updated 11 months ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities: data structures, mathematics, logging, code timing...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers><img src=img/star.png alt width=16 height=16></a> 0 &nbsp;&nbsp; Updated today </td> </tr> </table> 
 
 <h3>🐳 Docker</h3>
 
@@ -39,7 +39,7 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/updates.sh>updates.sh</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, Mac App Store apps, asdf plugins, Oh My Zsh&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/shell.png alt width=12 height=12> Shell &nbsp;&nbsp; <a href=https://github.com/tadamcz/updates.sh/stargazers><img src=img/star.png alt width=16 height=16></a> 0 &nbsp;&nbsp; Updated 1 year, 7 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/updates.sh>updates.sh</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>MacOS update script: updates Homebrew formulae & casks with parallel downloads, Mac App Store apps, asdf plugins, Oh My Zsh&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/shell.png alt width=12 height=12> Shell &nbsp;&nbsp; <a href=https://github.com/tadamcz/updates.sh/stargazers><img src=img/star.png alt width=16 height=16></a> 0 &nbsp;&nbsp; Updated 1 year, 8 days ago </td> </tr> </table> 
 
 
 
@@ -61,4 +61,4 @@ Check out some of my projects below:
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 11 months ago </td> </tr> </table> 
 
-<hr><p>This file was generated on 2024-07-22 using data from the GitHub API.</p>
+<hr><p>This file was generated on 2024-07-23 using data from the GitHub API.</p>
