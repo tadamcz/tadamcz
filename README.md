@@ -7,11 +7,11 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong>carlo</strong> (private) &nbsp;&nbsp; <span> <a href=https://carlo.app>carlo.app</a> </span> <p>Parse a spreadsheet's computation graph and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 16 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong>carlo</strong> (private) &nbsp;&nbsp; <span> <a href=https://carlo.app>carlo.app</a> </span> <p>Parse a spreadsheet's computation graph and perform Monte Carlo simulations.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 17 days ago </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong>mdist</strong> (private) &nbsp;&nbsp; <span> <a href=https://makedistribution.com/ >makedistribution.com</a> </span> <p>Intuitive UI and API to create subjective probability distributions. Offers novel distributions that can that flexibly match your beliefs, unlike traditional ones.</p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 15 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong>mdist</strong> (private) &nbsp;&nbsp; <span> <a href=https://makedistribution.com/ >makedistribution.com</a> </span> <p>Intuitive UI and API to create subjective probability distributions. Offers novel distributions that can that flexibly match your beliefs, unlike traditional ones.</p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 16 days ago </td> </tr> </table> 
 
 
 
@@ -59,6 +59,6 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 1 year, 28 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 1 year, 29 days ago </td> </tr> </table> 
 
-<hr><p>This file was generated on 2024-08-31 using data from the GitHub API.</p>
+<hr><p>This file was generated on 2024-09-01 using data from the GitHub API.</p>
