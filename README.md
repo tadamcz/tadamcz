@@ -19,7 +19,7 @@ Check out some of my projects below:
 
 <h3>SciPy probability distributions</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/copula-wrapper>copula-wrapper</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Specify a joint probability distribution from arbitrary marginal distributions and pairwise rank correlations. Wrapper around statsmodels.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/copula-wrapper/stargazers><img src=img/star.png alt width=16 height=16></a> 4 &nbsp;&nbsp; Updated 1 year, 3 months ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/copula-wrapper>copula-wrapper</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Specify a joint probability distribution from arbitrary marginal distributions and pairwise rank correlations. Wrapper around statsmodels.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/copula-wrapper/stargazers><img src=img/star.png alt width=16 height=16></a> 4 &nbsp;&nbsp; Updated 1 year, 4 months ago </td> </tr> </table> 
 
 
 
@@ -27,7 +27,7 @@ Check out some of my projects below:
 
 <h2>🛠️ Utilities</h2><h3>🐍 Python</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities: data structures, mathematics, logging, code timing...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers><img src=img/star.png alt width=16 height=16></a> 0 &nbsp;&nbsp; Updated 2 months ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/nonstd>nonstd</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Personal collection of Python utilities: data structures, mathematics, logging, code timing...&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/nonstd/stargazers><img src=img/star.png alt width=16 height=16></a> 0 &nbsp;&nbsp; Updated 3 months ago </td> </tr> </table> 
 
 <h3>🐳 Docker</h3>
 
@@ -35,7 +35,7 @@ Check out some of my projects below:
 
 <h3>🍎 MacOS</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/karasonnet>karasonnet</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate Karabiner-Elements configuration using Jsonnet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/jsonnet.png alt width=12 height=12> Jsonnet &nbsp;&nbsp; <a href=https://github.com/tadamcz/karasonnet/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 19 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/karasonnet>karasonnet</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate Karabiner-Elements configuration using Jsonnet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/jsonnet.png alt width=12 height=12> Jsonnet &nbsp;&nbsp; <a href=https://github.com/tadamcz/karasonnet/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 20 days ago </td> </tr> </table> 
 
 
 
@@ -61,4 +61,4 @@ Check out some of my projects below:
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 1 year, 2 months ago </td> </tr> </table> 
 
-<hr><p>This file was generated on 2024-10-30 using data from the GitHub API.</p>
+<hr><p>This file was generated on 2024-10-31 using data from the GitHub API.</p>
