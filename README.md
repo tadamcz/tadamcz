@@ -35,7 +35,7 @@ Check out some of my projects below:
 
 <h3>🍎 MacOS</h3>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/karasonnet>karasonnet</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate Karabiner-Elements configuration using Jsonnet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/jsonnet.png alt width=12 height=12> Jsonnet &nbsp;&nbsp; <a href=https://github.com/tadamcz/karasonnet/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 24 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/karasonnet>karasonnet</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate Karabiner-Elements configuration using Jsonnet&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/jsonnet.png alt width=12 height=12> Jsonnet &nbsp;&nbsp; <a href=https://github.com/tadamcz/karasonnet/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 25 days ago </td> </tr> </table> 
 
 
 
@@ -47,7 +47,7 @@ Check out some of my projects below:
 
 <h2>Other</h2>
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/ai-timelines-priors>ai-timelines-priors</a></strong> &nbsp;&nbsp; <span> <a href=https://aipriors.com/ >aipriors.com</a> </span> <p>The models used in the Open Philanthropy report "Semi-informative priors over AI timelines", and a companion web interface.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/ai-timelines-priors/stargazers><img src=img/star.png alt width=16 height=16></a> 4 &nbsp;&nbsp; Updated 9 months ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/ai-timelines-priors>ai-timelines-priors</a></strong> &nbsp;&nbsp; <span> <a href=https://aipriors.com/ >aipriors.com</a> </span> <p>The models used in the Open Philanthropy report "Semi-informative priors over AI timelines", and a companion web interface.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/ai-timelines-priors/stargazers><img src=img/star.png alt width=16 height=16></a> 4 &nbsp;&nbsp; Updated 10 months ago </td> </tr> </table> 
 
 
 
@@ -61,4 +61,4 @@ Check out some of my projects below:
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 1 year, 3 months ago </td> </tr> </table> 
 
-<hr><p>This file was generated on 2024-11-04 using data from the GitHub API.</p>
+<hr><p>This file was generated on 2024-11-05 using data from the GitHub API.</p>
