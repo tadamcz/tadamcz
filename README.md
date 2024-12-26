@@ -11,7 +11,7 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong>mdist</strong> (private) &nbsp;&nbsp; <span> <a href=https://makedistribution.com/ >makedistribution.com</a> </span> <p>Intuitive UI and API to create subjective probability distributions. Offers novel distributions that can that flexibly match your beliefs, unlike traditional ones.</p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 5 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong>mdist</strong> (private) &nbsp;&nbsp; <span> <a href=https://makedistribution.com/ >makedistribution.com</a> </span> <p>Intuitive UI and API to create subjective probability distributions. Offers novel distributions that can that flexibly match your beliefs, unlike traditional ones.</p> </td> </tr> <tr> <td> <img src=img/typescript.png alt width=12 height=12> TypeScript &nbsp;&nbsp; Updated 6 days ago </td> </tr> </table> 
 
 
 
@@ -51,14 +51,14 @@ Check out some of my projects below:
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/monadic-predicate>monadic-predicate</a></strong> &nbsp;&nbsp; <span> <a href=https://monadic-predicate.tadamcz.com>monadic-predicate.tadamcz.com</a> </span> <p>Check whether a formula in monadic predicate logic is a theorem.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/monadic-predicate/stargazers><img src=img/star.png alt width=16 height=16></a> 0 &nbsp;&nbsp; Updated 1 year, 12 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/monadic-predicate>monadic-predicate</a></strong> &nbsp;&nbsp; <span> <a href=https://monadic-predicate.tadamcz.com>monadic-predicate.tadamcz.com</a> </span> <p>Check whether a formula in monadic predicate logic is a theorem.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/monadic-predicate/stargazers><img src=img/star.png alt width=16 height=16></a> 0 &nbsp;&nbsp; Updated 1 year, 13 days ago </td> </tr> </table> 
 
 
 
-<table> <tr> <td> <strong><a href=https://github.com/tadamcz/intentions-page>intentions-page</a></strong> &nbsp;&nbsp; <span> <a href=https://intentions.page>intentions.page</a> </span> <p>An opinionated task list designed to steer you towards intentions that feel alive and relevant, instead of long lists of old tasks.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/intentions-page/stargazers><img src=img/star.png alt width=16 height=16></a> 1 &nbsp;&nbsp; Updated 1 year, 12 days ago </td> </tr> </table> 
+<table> <tr> <td> <strong><a href=https://github.com/tadamcz/intentions-page>intentions-page</a></strong> &nbsp;&nbsp; <span> <a href=https://intentions.page>intentions.page</a> </span> <p>An opinionated task list designed to steer you towards intentions that feel alive and relevant, instead of long lists of old tasks.</p> </td> </tr> <tr> <td> <img src=img/python.png alt width=12 height=12> Python &nbsp;&nbsp; <a href=https://github.com/tadamcz/intentions-page/stargazers><img src=img/star.png alt width=16 height=16></a> 1 &nbsp;&nbsp; Updated 1 year, 13 days ago </td> </tr> </table> 
 
 
 
 <table> <tr> <td> <strong><a href=https://github.com/tadamcz/jekyll-markdown-responsive-image>jekyll-markdown-responsive-image</a></strong> &nbsp;&nbsp; <span> <a href></a> </span> <p>Generate responsive images in Jekyll from pure markdown, without any Liquid tags. Uses jekyll_picture_tag&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p> </td> </tr> <tr> <td> <img src=img/ruby.png alt width=12 height=12> Ruby &nbsp;&nbsp; <a href=https://github.com/tadamcz/jekyll-markdown-responsive-image/stargazers><img src=img/star.png alt width=16 height=16></a> 3 &nbsp;&nbsp; Updated 1 year, 4 months ago </td> </tr> </table> 
 
-<hr><p>This file was generated on 2024-12-25 using data from the GitHub API.</p>
+<hr><p>This file was generated on 2024-12-26 using data from the GitHub API.</p>
